@@ -1,0 +1,35 @@
+.footer {
+    padding: 5px;
+    margin: 5px;
+    background-color: #0088a9;
+}
+
+.copy {
+    color: #edf0f1;
+}
+
+.mainContacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 65vh;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: #0088a9;
+    ;
+    color: #24252A;
+    ;
+    padding: 10px;
+    margin-top: 6%;
+}
+
+.form input {
+    margin-bottom: 50 px;
+    padding: 13px;
+    margin: 6px;
+    color: #edf0f1;
+    ;
+}
