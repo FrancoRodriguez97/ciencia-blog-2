@@ -1,2 +1,2 @@
-node_module
-*.jason
+node_modules
+*.json

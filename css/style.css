@@ -44,7 +44,11 @@ header {
 /* navbar */
 .nav_links {
   display: flex;
-  list-style: none; }
+  list-style: none;
+  justify-content: space-between; }
+
+.nav_links li {
+  justify-content: space-between; }
 
 .nav_links li a {
   transition: all 0.3s ease 0s; }
